@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LOVE-LETTER/static/css/main.c544bdfe.css",
+    "main.js": "/LOVE-LETTER/static/js/main.cdce6fa9.js",
+    "static/js/453.c597153d.chunk.js": "/LOVE-LETTER/static/js/453.c597153d.chunk.js",
+    "static/media/Anuvanuvu.mp3": "/LOVE-LETTER/static/media/Anuvanuvu.81d19d37769d2a957646.mp3",
+    "index.html": "/LOVE-LETTER/index.html",
+    "main.c544bdfe.css.map": "/LOVE-LETTER/static/css/main.c544bdfe.css.map",
+    "main.cdce6fa9.js.map": "/LOVE-LETTER/static/js/main.cdce6fa9.js.map",
+    "453.c597153d.chunk.js.map": "/LOVE-LETTER/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c544bdfe.css",
+    "static/js/main.cdce6fa9.js"
+  ]
+}
